@@ -1,0 +1,32 @@
+2024-06-28T11:44:42+05:30 [error]: Error executing action 'navigate' with description 'Navigating to U2FsdGVkX1/VOY18slxc9v12FKXpGN48vS5WMkFFSBelfFdgGKeZv9Bdl+zY4MX3PyKJZqXrVpl9IW17UTX2pwHOn7HMe+ZJgZ1ESklTKSkUPSeeBcjjWzOdqYuXCjvx': page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  [2m- navigating to "U2FsdGVkX1/VOY18slxc9v12FKXpGN48vS5WMkFFSBelfFdgGKeZv9Bdl+zY4MX3PyKJZqXrVpl9IW17UTX2pwHOn7HMe+ZJgZ1ESklTKSkUPSeeBcjjWzOdqYuXCjvx", waiting until "load"[22m
+
+2024-06-28T11:44:42+05:30 [error]: Error during step 'Navigating to U2FsdGVkX1/VOY18slxc9v12FKXpGN48vS5WMkFFSBelfFdgGKeZv9Bdl+zY4MX3PyKJZqXrVpl9IW17UTX2pwHOn7HMe+ZJgZ1ESklTKSkUPSeeBcjjWzOdqYuXCjvx': page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  [2m- navigating to "U2FsdGVkX1/VOY18slxc9v12FKXpGN48vS5WMkFFSBelfFdgGKeZv9Bdl+zY4MX3PyKJZqXrVpl9IW17UTX2pwHOn7HMe+ZJgZ1ESklTKSkUPSeeBcjjWzOdqYuXCjvx", waiting until "load"[22m
+
+2024-06-28T14:11:49+05:30 [error]: Error executing action 'click' with description 'clicking on PIM': locator.click: Test ended.
+Call log:
+  [2m- waiting for locator('//span[text()=\'PIM\']')[22m
+
+2024-06-28T14:11:49+05:30 [error]: Error during step 'clicking on PIM': locator.click: Test ended.
+Call log:
+  [2m- waiting for locator('//span[text()=\'PIM\']')[22m
+
+2024-06-28T14:12:52+05:30 [error]: Error executing action 'navigate' with description 'Navigating to U2FsdGVkX18iePZqhrJoCWZxHfiR7tvP0XhfvliiEl6tTzwDRMrLU+dnDaGMv0WKV1/LOLrWRkF/CKAQ0pFf7EudjFJHCajbaqkFxyuc615O29KscW0/A0ByWVWHM7WM': page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  [2m- navigating to "U2FsdGVkX18iePZqhrJoCWZxHfiR7tvP0XhfvliiEl6tTzwDRMrLU+dnDaGMv0WKV1/LOLrWRkF/CKAQ0pFf7EudjFJHCajbaqkFxyuc615O29KscW0/A0ByWVWHM7WM", waiting until "load"[22m
+
+2024-06-28T14:12:52+05:30 [error]: Error during step 'Navigating to U2FsdGVkX18iePZqhrJoCWZxHfiR7tvP0XhfvliiEl6tTzwDRMrLU+dnDaGMv0WKV1/LOLrWRkF/CKAQ0pFf7EudjFJHCajbaqkFxyuc615O29KscW0/A0ByWVWHM7WM': page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  [2m- navigating to "U2FsdGVkX18iePZqhrJoCWZxHfiR7tvP0XhfvliiEl6tTzwDRMrLU+dnDaGMv0WKV1/LOLrWRkF/CKAQ0pFf7EudjFJHCajbaqkFxyuc615O29KscW0/A0ByWVWHM7WM", waiting until "load"[22m
+
+2024-06-28T14:15:22+05:30 [error]: Error executing action 'click' with description 'clicking on PIM': locator.click: Test ended.
+Call log:
+  [2m- waiting for locator('//span[text()=\'PIM\']')[22m
+
+2024-06-28T14:15:22+05:30 [error]: Error during step 'clicking on PIM': locator.click: Test ended.
+Call log:
+  [2m- waiting for locator('//span[text()=\'PIM\']')[22m
+
