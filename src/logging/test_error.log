@@ -30,3 +30,11 @@ Call log:
 Call log:
   [2m- waiting for locator('//span[text()=\'PIM\']')[22m
 
+2024-07-09T13:02:02+05:30 [error]: Error executing action 'navigate' with description 'Navigating to U2FsdGVkX18XoVqA90BnRGAFjjAOm7upQtJDtpWr6pl9TBlo1Yo+KjarkbptozGyKvQRePejEb6eHXgYj6JCyByBZSghqErwwCS+XZoaoDhpaLlUbnO9MHIXiKsXHYXT': page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  [2m- navigating to "U2FsdGVkX18XoVqA90BnRGAFjjAOm7upQtJDtpWr6pl9TBlo1Yo+KjarkbptozGyKvQRePejEb6eHXgYj6JCyByBZSghqErwwCS+XZoaoDhpaLlUbnO9MHIXiKsXHYXT", waiting until "load"[22m
+
+2024-07-09T13:02:02+05:30 [error]: Error during step 'Navigating to U2FsdGVkX18XoVqA90BnRGAFjjAOm7upQtJDtpWr6pl9TBlo1Yo+KjarkbptozGyKvQRePejEb6eHXgYj6JCyByBZSghqErwwCS+XZoaoDhpaLlUbnO9MHIXiKsXHYXT': page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  [2m- navigating to "U2FsdGVkX18XoVqA90BnRGAFjjAOm7upQtJDtpWr6pl9TBlo1Yo+KjarkbptozGyKvQRePejEb6eHXgYj6JCyByBZSghqErwwCS+XZoaoDhpaLlUbnO9MHIXiKsXHYXT", waiting until "load"[22m
+

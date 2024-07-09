@@ -38,3 +38,21 @@ Call log:
 Call log:
   [2m- waiting for locator('//span[text()=\'PIM\']')[22m
 
+2024-07-09T13:02:02+05:30 [error]: Error executing action 'navigate' with description 'Navigating to U2FsdGVkX18XoVqA90BnRGAFjjAOm7upQtJDtpWr6pl9TBlo1Yo+KjarkbptozGyKvQRePejEb6eHXgYj6JCyByBZSghqErwwCS+XZoaoDhpaLlUbnO9MHIXiKsXHYXT': page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  [2m- navigating to "U2FsdGVkX18XoVqA90BnRGAFjjAOm7upQtJDtpWr6pl9TBlo1Yo+KjarkbptozGyKvQRePejEb6eHXgYj6JCyByBZSghqErwwCS+XZoaoDhpaLlUbnO9MHIXiKsXHYXT", waiting until "load"[22m
+
+2024-07-09T13:02:02+05:30 [error]: Error during step 'Navigating to U2FsdGVkX18XoVqA90BnRGAFjjAOm7upQtJDtpWr6pl9TBlo1Yo+KjarkbptozGyKvQRePejEb6eHXgYj6JCyByBZSghqErwwCS+XZoaoDhpaLlUbnO9MHIXiKsXHYXT': page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  [2m- navigating to "U2FsdGVkX18XoVqA90BnRGAFjjAOm7upQtJDtpWr6pl9TBlo1Yo+KjarkbptozGyKvQRePejEb6eHXgYj6JCyByBZSghqErwwCS+XZoaoDhpaLlUbnO9MHIXiKsXHYXT", waiting until "load"[22m
+
+2024-07-09T13:03:32+05:30 [info]: Action 'navigate' executed successfully: Navigating to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-09T13:03:33+05:30 [info]: Action 'fill' executed successfully: enterning user name
+2024-07-09T13:03:33+05:30 [info]: Action 'fill' executed successfully: entering password
+2024-07-09T13:03:37+05:30 [info]: Action 'click' executed successfully: clicking on login button
+2024-07-09T13:03:41+05:30 [info]: Action 'click' executed successfully: clicking on PIM
+2024-07-09T13:03:46+05:30 [info]: Action 'click' executed successfully: clicking on add button
+2024-07-09T13:03:47+05:30 [info]: Action 'fill' executed successfully: enterning first name
+2024-07-09T13:03:47+05:30 [info]: Action 'fill' executed successfully: enterning middle name
+2024-07-09T13:03:47+05:30 [info]: Action 'fill' executed successfully: enterning last name
+2024-07-09T13:03:48+05:30 [info]: Action 'click' executed successfully: clicking on save button
